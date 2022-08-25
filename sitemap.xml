@@ -9,27 +9,42 @@
 
 <url>
   <loc>https://lomtalanitas-mesterfokon.hu/</loc>
-  <lastmod>2022-08-18T01:47:18+00:00</lastmod>
+  <lastmod>2022-08-25T20:46:32+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://lomtalanitas-mesterfokon.hu/index.html</loc>
-  <lastmod>2022-08-18T01:47:18+00:00</lastmod>
+  <lastmod>2022-08-25T20:46:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://lomtalanitas-mesterfokon.hu/about.html</loc>
-  <lastmod>2022-08-18T01:47:18+00:00</lastmod>
+  <lastmod>2022-08-25T20:46:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lomtalanitas-mesterfokon.hu/articles.html</loc>
+  <lastmod>2022-08-25T20:46:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://lomtalanitas-mesterfokon.hu/contact.html</loc>
-  <lastmod>2022-08-18T01:47:18+00:00</lastmod>
+  <lastmod>2022-08-25T20:46:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lomtalanitas-mesterfokon.hu/_article1.html</loc>
+  <lastmod>2022-08-25T20:46:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lomtalanitas-mesterfokon.hu/_article2.html</loc>
+  <lastmod>2022-08-25T20:46:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://lomtalanitas-mesterfokon.hu/impressum.html</loc>
-  <lastmod>2022-08-18T01:47:18+00:00</lastmod>
+  <lastmod>2022-08-25T20:46:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
