@@ -1,4 +1,4 @@
-Sitemap: https://lomtalanitas-mesterfokon.hu/sitemap.xml
 User-Agent: *
 Allow: /
 
+Sitemap: https://lomtalanitas-mesterfokon.hu/sitemap.xml
