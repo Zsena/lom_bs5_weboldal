@@ -45,8 +45,11 @@
 <url>
   <loc>https://lomtalanitas-mesterfokon.hu/impressum.html</loc>
   <lastmod>2022-08-25T20:46:32+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.60</priority>
 </url>
-
-
+<url>
+  <loc>https://lomtalanitas-mesterfokon.hu/adatvedelem.html</loc>
+  <lastmod>2022-09-27T11:43:32+00:00</lastmod>
+  <priority>0.60</priority>
+</url>
 </urlset>
